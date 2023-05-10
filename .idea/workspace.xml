@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b667051a-d21f-4f2a-ba5b-ea91cddc09ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actor.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClienteRestaurante.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="b667051a-d21f-4f2a-ba5b-ea91cddc09ef" name="Changes" comment="memoria rama creada">
+      <change afterPath="$PROJECT_DIR$/src/Actor.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inclusion.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actor.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClienteRestaurante.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClienteRestaurante.puml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="proyecto" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -52,6 +54,11 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Escritorio\EDE_12UD_Elisabet_Agulló\proyecto\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,8 +67,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683717037532</updated>
-      <workItem from="1683717038997" duration="1280000" />
+      <workItem from="1683717038997" duration="3747000" />
     </task>
+    <task id="LOCAL-00001" summary="memoria rama creada">
+      <created>1683718892103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683718892103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="memoria rama creada" />
+    <option name="LAST_COMMIT_MESSAGE" value="memoria rama creada" />
   </component>
 </project>

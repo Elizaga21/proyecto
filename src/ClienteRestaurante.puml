@@ -1,14 +1,12 @@
 @startuml
-class Cliente {
-  -nombre: string
-  -direccion: string
-  -telefono: string
-  +verMenu(): void
-  +hacerPedido(): void
-}
+actor Cliente
+actor Restaurante
 
-class Restaurante extends Cliente {
-  +mostrarMenu(): void
-  +entregarComida(): void
+rectangle {
+  Cliente --> (Ver menú)
+  (Ver menú) --> Restaurante
+  Cliente --> (Pedir comida)
+  (Pedir comida) --> Restaurante
+  Restaurante --> (Entregar comida)
 }
 @enduml

@@ -1,0 +1,15 @@
+@startuml
+left to right direction
+actor Usuario
+
+actor Administrador
+Administrador --|> Usuario
+
+    Usuario --> (Iniciar Sesión)
+    Usuario --> (Recuperar Contraseña)
+    Usuario --> (Modificar Contraseña)
+    Usuario --> (Cerrar Sesión)
+    Administrador --> (Registrar Usuario)
+    Administrador --> (Instalar Programa)
+
+@enduml

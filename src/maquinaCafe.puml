@@ -1,0 +1,12 @@
+@startuml
+actor Cliente
+
+Cliente --> (Meter dinero)
+Cliente --> (Pedir azúcar)
+Cliente --> (Pedir producto)
+Cliente --> (Cancelar)
+(Cancelar) --> (Devolver dinero)
+(Pedir producto) --> (Devolver dinero)
+(Devolver dinero) <<include>> (Cancelar) <<include>>
+}
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+left to right direction
+actor NewActor
+
+  NewActor --> (Identificarse)
+  (Identificarse) --> (Registrarse)
+
+
+  (Identificarse) --> (Pagar)
+  (Pagar) <|-- (Pagar con tarjeta)
+  (Pagar) <|-- (Pagar con transferencia)
+  (Pagar) --> (Elegir mensajero)
+  (Elegir mensajero) --> (Confirmar)
+
+
+(Registrarse) ..> (Identificarse) : <<extend>>
+
+@enduml

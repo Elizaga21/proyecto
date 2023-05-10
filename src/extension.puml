@@ -1,0 +1,8 @@
+@startuml
+left to right direction
+
+
+( Registarse) .> (Acceder) : <<extend>>
+
+
+@enduml

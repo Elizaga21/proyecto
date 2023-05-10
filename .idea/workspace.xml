@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b667051a-d21f-4f2a-ba5b-ea91cddc09ef" name="Changes" comment="memoria rama creada">
-      <change afterPath="$PROJECT_DIR$/src/Actor.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inclusion.puml" afterDir="false" />
+    <list default="true" id="b667051a-d21f-4f2a-ba5b-ea91cddc09ef" name="Changes" comment="casos de uso del 1 al 5 creados con éxito">
+      <change afterPath="$PROJECT_DIR$/src/extension.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generalizacion.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actor.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClienteRestaurante.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClienteRestaurante.puml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683717037532</updated>
-      <workItem from="1683717038997" duration="3747000" />
+      <workItem from="1683717038997" duration="5125000" />
     </task>
     <task id="LOCAL-00001" summary="memoria rama creada">
       <created>1683718892103</created>
@@ -76,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683718892103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="casos de uso del 1 al 5 creados con éxito">
+      <created>1683730043853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683730043853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="memoria rama creada" />
-    <option name="LAST_COMMIT_MESSAGE" value="memoria rama creada" />
+    <MESSAGE value="casos de uso del 1 al 5 creados con éxito" />
+    <option name="LAST_COMMIT_MESSAGE" value="casos de uso del 1 al 5 creados con éxito" />
   </component>
 </project>

@@ -1,0 +1,11 @@
+@startuml
+actor Cliente
+actor ClienteVIP
+
+
+  Cliente --> (Reservar Vuelo)
+
+  ClienteVIP --> (Pedir comida)
+
+Cliente <|-- ClienteVIP
+@enduml

@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b667051a-d21f-4f2a-ba5b-ea91cddc09ef" name="Changes" comment="casos de uso 6 y 7 creados con éxito">
-      <change afterPath="$PROJECT_DIR$/src/ciudadano.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maquinaCafe.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tiendaWeb.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/usuarioadmin.puml" afterDir="false" />
+    <list default="true" id="b667051a-d21f-4f2a-ba5b-ea91cddc09ef" name="Changes" comment="casos de uso 8-11 creados con éxito">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="proyecto" />
+        <entry key="$PROJECT_DIR$" value="memoria" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,18 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultPlantUmlFileTemplate": "UML Use Case",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Use Case&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Escritorio\EDE_12UD_Elisabet_Agulló\proyecto\src" />
@@ -67,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683717037532</updated>
       <workItem from="1683717038997" duration="7925000" />
+      <workItem from="1683735026249" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="memoria rama creada">
       <created>1683718892103</created>
@@ -89,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683731410266</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="casos de uso 8-11 creados con éxito">
+      <created>1683735049667</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683735049667</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +114,7 @@
     <MESSAGE value="memoria rama creada" />
     <MESSAGE value="casos de uso del 1 al 5 creados con éxito" />
     <MESSAGE value="casos de uso 6 y 7 creados con éxito" />
-    <option name="LAST_COMMIT_MESSAGE" value="casos de uso 6 y 7 creados con éxito" />
+    <MESSAGE value="casos de uso 8-11 creados con éxito" />
+    <option name="LAST_COMMIT_MESSAGE" value="casos de uso 8-11 creados con éxito" />
   </component>
 </project>
